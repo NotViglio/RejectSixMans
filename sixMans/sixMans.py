@@ -34,7 +34,7 @@ defaults = {
     "AutoMove": False,
     "ReactToVote": True,
     "QLobby": None,
-    "DefaultTeamSelection": Strings.RANDOM_TS,
+    "DefaultTeamSelection": Strings.VOTE_TS,
     "DefaultQueueMaxSize": 6,
     "PlayerTimeout": PLAYER_TIMEOUT_TIME,
     "Games": {},
